@@ -1,0 +1,49 @@
+section {
+  font-family: monospace;
+}
+nav {
+	border-style: solid;
+  border-width: 1px;
+  background-color: #e0eee9;
+  width: 340px;
+}
+li {
+    display: inline;
+  list-style-type: none;
+  padding: 1px;
+  font-family: monospace;
+  font-size: 100%;
+  white-space: pre;
+  
+}
+ul li a{
+    text-decoration: none;
+    color: black;
+  }
+
+  ul li a:hover{
+    color: orange;
+  }
+article {
+  border-style: solid;
+  border-width: 1px;
+  background-color: #e0eee9;
+  width: 340px;
+}
+header {
+  border-style: solid;
+  border-width: 1px;
+  background-color: #e0eee9;
+  width: 340px;
+
+  body {
+  background-image:url('texture.png');
+}
+#Nav a{
+    color: #000;
+}
+
+#Nav a:hover {
+    color: red;
+    text-decoration: underline;
+}
