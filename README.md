@@ -31,5 +31,4 @@ Convert it into a solar fueled base,
 a solar power station of sorts; 
 node one of Sunlust project. 
 
-Help us.
 Make an offering to the Sun.
