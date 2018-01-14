@@ -28,7 +28,7 @@ Sunlust starts here.
 A simple and naive fundraising idea.
 To aquire a disused space. 
 Convert it into a solar fueled base, 
-a solar power station of sorts; 
+a micro solar power station; 
 node one of Sunlust project. 
 
 Make an offering to the Sun.
